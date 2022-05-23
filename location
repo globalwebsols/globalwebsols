@@ -1,0 +1,17 @@
+<html>
+<head>
+<script src="http://www.codehelper.io/api/ips/?js"></script>
+<script>
+window.onload = function(){
+    console.log(codehelper_ip);
+};
+</script>
+
+<script>
+{"IP":"149.215.142.9","ContinentCode":"EU","ContinentName":"Europe","CountryCode2":"GB","CountryCode3":"GBR","Country":"GB","CountryName":"United Kingdom","RegionName":"Unknown","CityName":"Unknown","CityLatitude":51.5,"CityLongitude":-0.13,"CountryLatitude":54,"CountryLongitude":-4.5,"LocalTimeZone":"Europe/London","REMOTE_ADDR":"149.215.142.9","HTTP_X_FORWARDED_FOR":"149.215.142.9","CallingCode":"44","Population":"61,113,205 (22)","AreaSqKm":"243,610 (80)","GDP_USD":"2.226 Trillion (7)","Capital":"London","Electrical":"230 V,50 Hz Type G","Languages":"English, Welsh (about 26% of the population of Wales), Scottish form of Gaelic (about 60,000 in Scotland)","Currency":"Pound Sterling (GBP)","Flag":"http://www.codehelper.io/api/ips/proips/flags/GB.jpg"}
+</script>
+
+</head>
+<body>
+</body>
+</html>
